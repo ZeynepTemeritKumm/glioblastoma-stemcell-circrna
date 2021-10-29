@@ -1,0 +1,10 @@
+[Thu Oct 28 13:54:34 2021] Summary for Glioblastoma. circRNA analysis using miARma.
+
+Quality [Examples/basic_examples/circRNAs/reads//Pre_fastqc_results]
+Filename	Number of reads	%GC Content	Read Length	Encoding
+SRR16352157_1_fastqc	24507872	50%	150	Sanger / Illumina 1.9
+SRR16352157_2_fastqc	24507872	50%	150	Sanger / Illumina 1.9
+
+ReadCount [Examples/basic_examples/circRNAs/results//circRNAs_results/]
+Filename	Number of identified circRNAs
+SRR16352157	169

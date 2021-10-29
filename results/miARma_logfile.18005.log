@@ -1,0 +1,4 @@
+BWA :: [Thu Oct 28 14:07:09 2021] Checking Examples/basic_examples/circRNAs/reads/SRR16352157_1.fastq.gz for bwa analysis (Paired End)
+BWA :: [Thu Oct 28 14:07:09 2021] Executing mkdir -p Examples/basic_examples/circRNAs/results//bwa_results/ ;bwa mem  -T 19  -t 4 Genomes/Indexes/BWA/human/bwa_homo_sapiens19 Examples/basic_examples/circRNAs/reads/SRR16352157_1.fastq.gz Examples/basic_examples/circRNAs/reads/SRR16352157_2.fastq.gz >Examples/basic_examples/circRNAs/results//bwa_results/SRR16352157_bwa.sam
+ File:Examples/basic_examples/circRNAs/reads/SRR16352157_1.fastq.gz
+BWA :: [Thu Oct 28 20:26:49 2021] Checking Examples/basic_examples/circRNAs/reads/SRR16352157_2.fastq.gz for bwa analysis (Paired End)

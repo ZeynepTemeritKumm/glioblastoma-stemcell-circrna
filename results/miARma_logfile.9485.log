@@ -1,0 +1,39 @@
+Smartmatch is experimental at ./bin/common/CIRI//CIRI_v1.2.pl line 425.
+Smartmatch is experimental at ./bin/common/CIRI//CIRI_v1.2.pl line 454.
+Smartmatch is experimental at ./bin/common/CIRI//CIRI_v1.2.pl line 497.
+Smartmatch is experimental at ./bin/common/CIRI//CIRI_v1.2.pl line 504.
+Smartmatch is experimental at ./bin/common/CIRI//CIRI_v1.2.pl line 558.
+Smartmatch is experimental at ./bin/common/CIRI//CIRI_v1.2.pl line 1339.
+Smartmatch is experimental at ./bin/common/CIRI//CIRI_v1.2.pl line 1343.
+First scanning starts...
+Candidate reads of circular RNA: 10576
+Splicing signals checking starts...
+Candidate reads with splicing signals: 3513
+Clustering starts...
+847 clusters
+Second scanning starts...
+Additional candidate reads found: 61348
+Additional candidate reads with PEM signals: 12306
+Summarizing starts...
+Number of putative circular RNAs found: 169. Please see output file Examples/basic_examples/circRNAs/results//circRNAs_results/SRR16352157_bwa.ciri for detail.
+Thu Oct 28 20:33:20 2021
+First scanning starts...
+Candidate reads of circular RNA: 10576
+Splicing signals checking starts...
+Candidate reads with splicing signals: 3513
+Clustering starts...
+847 clusters
+Second scanning starts...
+Additional candidate reads found: 61348
+Additional candidate reads with PEM signals: 12306
+Summarizing starts...
+Thu Oct 28 22:26:37 2021
+Running time: 1.9 hour(s)
+Number of putative circular RNAs found: 169
+intergenic region: 106
+intron region: 13
+exon region: 50
+total: 169
+--------------------------------------------------
+LOG :: Reading Examples/basic_examples/circRNAs/results//circRNAs_results/SRR16352157_bwa.ciri
+CIRICOUNT :: [Thu Oct 28 22:27:57 2021] Please check the folder: Examples/basic_examples/circRNAs/results///circRNAs_results/.

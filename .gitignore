@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# BAM and SAM aligned sequences
+*.bam
+*.sam
+
+# Input data (See README.md for where to find)
+/reads/
+/data/

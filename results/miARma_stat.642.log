@@ -1,0 +1,12 @@
+FASTQCSTATS :: [Thu Oct 28 13:59:31 2021]
+ Name	 SRR16352157_1_fastqc
+ 
+				Total Sequences:	 24507872	 Sequence length:	 150
+ 
+				Encoding:	 Sanger / Illumina 1.9	 GCcontent:	 50%
+FASTQCSTATS :: [Thu Oct 28 13:59:31 2021]
+ Name	 SRR16352157_2_fastqc
+ 
+				Total Sequences:	 24507872	 Sequence length:	 150
+ 
+				Encoding:	 Sanger / Illumina 1.9	 GCcontent:	 50%
